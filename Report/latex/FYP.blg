@@ -1,0 +1,110 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: FYP.aux
+A level-1 auxiliary file: cover.aux
+A level-1 auxiliary file: summary.aux
+A level-1 auxiliary file: acknowledge.aux
+A level-1 auxiliary file: chapter1.aux
+A level-1 auxiliary file: chapter2.aux
+A level-1 auxiliary file: chapter3.aux
+A level-1 auxiliary file: chapter4.aux
+A level-1 auxiliary file: chapter5.aux
+The style file: unsrt.bst
+A level-1 auxiliary file: appendixa.aux
+A level-1 auxiliary file: appendixb.aux
+A level-1 auxiliary file: appendixc.aux
+A level-1 auxiliary file: appendixd.aux
+A level-1 auxiliary file: appendixe.aux
+A level-1 auxiliary file: appendixf.aux
+A level-1 auxiliary file: appendixg.aux
+Database file #1: refs.bib
+Warning--string name "capacity" is undefined
+--line 222 of file refs.bib
+I was expecting a `,' or a `}'---line 222 of file refs.bib
+ :        title = capacity 
+ :                         Management and demand prediction for next generation data centres},
+I'm skipping whatever remains of this entry
+I was expecting an "="---line 496 of file refs.bib
+ :     note 
+ :          {\url{http://docs.openstack.org/api/openstack-compute/2/content/List_Servers-d1e2078.html} - accessed 15/03/2014}
+I'm skipping whatever remains of this entry
+"{" immediately follows a field name---line 518 of file refs.bib
+ :   title
+ :        { RestTemplate - Spring Framework},
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "aptitude"
+Name 1 in "M. Armbrust, A. Fox, R. Grifﬁth, A. D. Joseph, and R. Katz" has a comma at the end for entry armbrustberkeleyview
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "M. Armbrust, A. Fox, R. Grifﬁth, A. D. Joseph, and R. Katz" for entry armbrustberkeleyview
+while executing---line 944 of file unsrt.bst
+Name 1 in "R.Buyya, C. S. Yeo, S. Venugopal, J. Broberg, and I. Brandic" has a comma at the end for entry buyyacloudemerging
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "R.Buyya, C. S. Yeo, S. Venugopal, J. Broberg, and I. Brandic" for entry buyyacloudemerging
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "B. Sotomayor, R.S. Montero, I. M. Llorente, I. Foster" for entry vimprivatehybrid
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "P. T. Jaeger, J. Lin, J. M. Grimes, S. N. Simmons" for entry whereisthecloud
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "K. Keahey, I. Foster, T. Freeman, X. Zhang" for entry virtualworkspaces
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "D. Gmach, J. Rolia, L. Cherkasova, A. Kemper" for entry capacitymanagement
+while executing---line 944 of file unsrt.bst
+Name 1 in "D. Nurmi, R. Wolski, C. Grzegorczyk, G. Obertelli, S. Soman, L. Youseff, and D. Zagorodnov" has a comma at the end for entry eucopensourcesystem
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "D. Nurmi, R. Wolski, C. Grzegorczyk, G. Obertelli, S. Soman, L. Youseff, and D. Zagorodnov" for entry eucopensourcesystem
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "D. Nurmi, R. Wolski, C. Grzegorczyk, G. Obertelli, S. Soman, L. Youseff, and D. Zagorodnov" for entry eucopensourcesystem
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "D. Nurmi, R. Wolski, C. Grzegorczyk, G. Obertelli, S. Soman, L. Youseff, and D. Zagorodnov" for entry eucopensourcesystem
+while executing---line 944 of file unsrt.bst
+Name 1 in "Daniel Nurmi, Rich Wolski, Chris Grzegorczyk, Graziano Obertelli, Lamia Youseff, and Dmitri Zagorodnov" has a comma at the end for entry eucopensourcecloudsystem
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "Daniel Nurmi, Rich Wolski, Chris Grzegorczyk, Graziano Obertelli, Lamia Youseff, and Dmitri Zagorodnov" for entry eucopensourcecloudsystem
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "Daniel Nurmi, Rich Wolski, Chris Grzegorczyk, Graziano Obertelli, Lamia Youseff, and Dmitri Zagorodnov" for entry eucopensourcecloudsystem
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "Randy J. Ray, Pavel Kulchenko, O’Reilly Media, Inc." for entry restoreilly
+while executing---line 944 of file unsrt.bst
+Warning--all relevant fields are empty in resttemplate
+You've used 81 entries,
+            1791 wiz_defined-function locations,
+            757 strings with 14468 characters,
+and the built_in function-call counts, 10054 in all, are:
+= -- 734
+> -- 337
+< -- 0
++ -- 165
+- -- 84
+* -- 57
+:= -- 1475
+add.period$ -- 230
+call.type$ -- 81
+change.case$ -- 79
+chr.to.int$ -- 0
+cite$ -- 82
+duplicate$ -- 405
+empty$ -- 1459
+format.name$ -- 84
+if$ -- 2366
+int.to.chr$ -- 0
+int.to.str$ -- 81
+missing$ -- 0
+newline$ -- 395
+num.names$ -- 80
+pop$ -- 603
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 275
+stack$ -- 0
+substring$ -- 0
+swap$ -- 81
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 80
+width$ -- 83
+write$ -- 736
+(There were 19 error messages)

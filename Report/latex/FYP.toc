@@ -1,0 +1,112 @@
+\contentsline {chapter}{\numberline {1}Introduction}{1}
+\contentsline {section}{\numberline {1.1}Overview}{1}
+\contentsline {subsection}{\numberline {1.1.1}Project Aims and Justification}{2}
+\contentsline {subsection}{\numberline {1.1.2}Objectives}{2}
+\contentsline {subsection}{\numberline {1.1.3}Minimum Requirements}{3}
+\contentsline {subsection}{\numberline {1.1.4}Possible Extensions}{4}
+\contentsline {subsection}{\numberline {1.1.5}Deliverables}{4}
+\contentsline {section}{\numberline {1.2}Methodology}{4}
+\contentsline {subsection}{\numberline {1.2.1}Project}{4}
+\contentsline {subsection}{\numberline {1.2.2}Experiment}{5}
+\contentsline {section}{\numberline {1.3}Project Plan}{5}
+\contentsline {subsection}{\numberline {1.3.1}Schedule}{5}
+\contentsline {subsection}{\numberline {1.3.2}Milestones}{6}
+\contentsline {section}{\numberline {1.4}Conclusion}{6}
+\contentsline {chapter}{\numberline {2}Background Research}{7}
+\contentsline {section}{\numberline {2.1}Overview}{7}
+\contentsline {section}{\numberline {2.2}Cloud Computing}{7}
+\contentsline {subsection}{\numberline {2.2.1}Introduction}{7}
+\contentsline {subsection}{\numberline {2.2.2}Definition}{8}
+\contentsline {subsection}{\numberline {2.2.3}Types of Cloud}{8}
+\contentsline {subsection}{\numberline {2.2.4}Service Models}{9}
+\contentsline {subsection}{\numberline {2.2.5}History}{10}
+\contentsline {subsection}{\numberline {2.2.6}Desired Characteristics \& Challenges}{12}
+\contentsline {section}{\numberline {2.3}Virtualisation}{13}
+\contentsline {subsection}{\numberline {2.3.1}Introduction}{13}
+\contentsline {subsection}{\numberline {2.3.2}The Data Centre}{14}
+\contentsline {subsection}{\numberline {2.3.3}Virtual Infrastructure Management}{15}
+\contentsline {subsection}{\numberline {2.3.4}Features of VIMs}{16}
+\contentsline {subsection}{\numberline {2.3.5}Current VIM Technologies}{17}
+\contentsline {section}{\numberline {2.4}OpenStack}{20}
+\contentsline {subsection}{\numberline {2.4.1}Introduction}{20}
+\contentsline {subsection}{\numberline {2.4.2}Overview of Technology}{20}
+\contentsline {subsubsection}{\numberline {2.4.2.1}Aims of the Project}{20}
+\contentsline {subsubsection}{\numberline {2.4.2.2}Design/Architecture of Project}{21}
+\contentsline {section}{\numberline {2.5}Current Evaluations of OpenStack}{21}
+\contentsline {section}{\numberline {2.6}Plan for Evaluation of OpenStack}{22}
+\contentsline {section}{\numberline {2.7}Conclusion}{24}
+\contentsline {chapter}{\numberline {3}Design \& Implementation}{25}
+\contentsline {section}{\numberline {3.1}Warm-up Exercises}{25}
+\contentsline {subsection}{\numberline {3.1.1}Deploying OpenStack on the Test Bed}{25}
+\contentsline {subsection}{\numberline {3.1.2}Experimenting with OpenStack - Experiment 0}{26}
+\contentsline {section}{\numberline {3.2}Experiment Planning}{27}
+\contentsline {section}{\numberline {3.3}Part 1: Analysis of OpenStack}{27}
+\contentsline {subsection}{\numberline {3.3.1}Architecture \& Feature Analysis of OpenStack}{27}
+\contentsline {subsubsection}{\numberline {3.3.1.1}At a Glance}{28}
+\contentsline {subsubsection}{\numberline {3.3.1.2}Dashboard (Horizon)}{29}
+\contentsline {subsubsection}{\numberline {3.3.1.3}Compute (Nova)}{30}
+\contentsline {subsubsection}{\numberline {3.3.1.4}Networking (Neutron)}{31}
+\contentsline {subsubsection}{\numberline {3.3.1.5}Block Storage (Cinder)}{32}
+\contentsline {subsubsection}{\numberline {3.3.1.6}Object Storage (Swift)}{32}
+\contentsline {subsubsection}{\numberline {3.3.1.7}Identity Service (Keystone)}{33}
+\contentsline {subsubsection}{\numberline {3.3.1.8}Image Service (Glance)}{34}
+\contentsline {section}{\numberline {3.4}Part 2: Exploring OpenStack through Experimentation}{35}
+\contentsline {subsection}{\numberline {3.4.1}Introduction}{35}
+\contentsline {subsection}{\numberline {3.4.2}Keystone}{36}
+\contentsline {subsubsection}{\numberline {3.4.2.1}Experiment K1: Keystone Validation}{36}
+\contentsline {subsubsection}{\numberline {3.4.2.2}Experiment K2: Packet Interception}{37}
+\contentsline {subsection}{\numberline {3.4.3}Nova}{40}
+\contentsline {subsubsection}{\numberline {3.4.3.1}Experiment N1: Nova Validation}{40}
+\contentsline {subsubsection}{\numberline {3.4.3.2}Experiment N2: Nova Extensions Validation}{42}
+\contentsline {subsubsection}{\numberline {3.4.3.3}Experiment N3: Server Launch Performance}{44}
+\contentsline {subsubsection}{\numberline {3.4.3.4}Experiment N4: Server Status Analysis}{48}
+\contentsline {chapter}{\numberline {4}Evaluation}{50}
+\contentsline {section}{\numberline {4.1}Implementation / Results Summary}{50}
+\contentsline {subsection}{\numberline {4.1.1}Qualitative Analysis}{50}
+\contentsline {subsection}{\numberline {4.1.2}Qualitative \& Quantitative Experiments}{51}
+\contentsline {subsection}{\numberline {4.1.3}Delivered OpenStack Client}{52}
+\contentsline {subsection}{\numberline {4.1.4}Conclusion}{53}
+\contentsline {section}{\numberline {4.2}Comparison with other Evaluations}{54}
+\contentsline {subsection}{\numberline {4.2.1}ETF Evaluation}{54}
+\contentsline {subsection}{\numberline {4.2.2}CERN Evaluation}{55}
+\contentsline {subsection}{\numberline {4.2.3}Conclusion}{55}
+\contentsline {section}{\numberline {4.3}Project Management \& Outcome}{56}
+\contentsline {subsection}{\numberline {4.3.1}Aims \& Objectives}{56}
+\contentsline {subsection}{\numberline {4.3.2}Project Methodology}{57}
+\contentsline {subsection}{\numberline {4.3.3}Project \& Time Management}{57}
+\contentsline {subsection}{\numberline {4.3.4}Unexpected Issues/Limitations}{58}
+\contentsline {section}{\numberline {4.4}Future work}{58}
+\contentsline {subsection}{\numberline {4.4.1}Further Research}{58}
+\contentsline {subsection}{\numberline {4.4.2}Further Experiments}{59}
+\contentsline {subsection}{\numberline {4.4.3}Improving the REST Client library}{59}
+\contentsline {section}{\numberline {4.5}Conclusion}{59}
+\contentsline {chapter}{\numberline {5}Conclusion}{60}
+\contentsline {chapter}{\hbox to\@tempdima { \hfil }Bibliography}{61}
+\contentsline {chapter}{\numberline {A}Personal Reflection}{67}
+\contentsline {chapter}{\numberline {B}Record of External Materials Used}{70}
+\contentsline {chapter}{\numberline {C}How Ethical Issues were Dealt With}{71}
+\contentsline {chapter}{\numberline {D}Warm-up Exercises}{72}
+\contentsline {section}{\numberline {D.1}Dashboard}{72}
+\contentsline {section}{\numberline {D.2}Command Line Interface (CLI)}{75}
+\contentsline {section}{\numberline {D.3}RESTful Web Service APIs}{78}
+\contentsline {section}{\numberline {D.4}Experiment Conclusion - Comparing Interfaces}{88}
+\contentsline {chapter}{\numberline {E}Project Deliverable - OpenStack REST Client Description}{90}
+\contentsline {section}{\numberline {E.1}Introduction}{90}
+\contentsline {section}{\numberline {E.2}Project Build}{90}
+\contentsline {subsection}{\numberline {E.2.1}Java}{90}
+\contentsline {subsection}{\numberline {E.2.2}Maven}{90}
+\contentsline {section}{\numberline {E.3}Project Design}{91}
+\contentsline {subsection}{\numberline {E.3.1}Spring}{91}
+\contentsline {subsection}{\numberline {E.3.2}REST Clients}{92}
+\contentsline {subsection}{\numberline {E.3.3}Experiments}{92}
+\contentsline {subsection}{\numberline {E.3.4}Utilities}{93}
+\contentsline {section}{\numberline {E.4}Delivered Items}{94}
+\contentsline {chapter}{\numberline {F}Initial and final GANTT Chart}{95}
+\contentsline {chapter}{\numberline {G}Mid Project Report}{98}
+\contentsline {subsection}{\numberline {G.0.1}Part 1: Aims \& Objectives}{98}
+\contentsline {subsection}{\numberline {G.0.2}Part 2: Project Planning}{98}
+\contentsline {subsubsection}{\numberline {G.0.2.1}Project Methodology}{99}
+\contentsline {subsubsection}{\numberline {G.0.2.2}Project Scheduling}{99}
+\contentsline {subsection}{\numberline {G.0.3}Background Research}{99}
+\contentsline {subsection}{\numberline {G.0.4}Implementation}{99}
+\contentsline {subsection}{\numberline {G.0.5}Next Steps}{100}

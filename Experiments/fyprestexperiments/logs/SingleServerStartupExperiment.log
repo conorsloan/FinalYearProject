@@ -1,0 +1,61 @@
+INFO  [nova.SingleServerStartupExperiment]: Starting Experiment Executor - 1 Experiments
+INFO  [nova.SingleServerStartupExperiment]: Experiment: Single VM Startup Experiment - a performance analysis of OpenStack's Instance launching capabilities, Details: This experiment, given a max number of instances & number of repetitions, starts up a number of VMs from 1 to max instances and times how long this takes. The requests are performed in parallel, so as to minimise serial cost differences.
+INFO  [nova.SingleServerStartupExperiment]: Setting up experiment..
+Validating client
+Finished setup.
+INFO  [nova.SingleServerStartupExperiment]: Executing Experiment
+INFO  [nova.SingleServerStartupExperiment]: Starting experiment for flavor: m1.tiny after 0 VMs: 
+INFO  [nova.SingleServerStartupExperiment]: Flavor: m1.tiny Number of VMs: 0 Average Time: 5627988052
+INFO  [nova.SingleServerStartupExperiment]: Starting experiment for flavor: m1.small after 0 VMs: 
+INFO  [nova.SingleServerStartupExperiment]: Flavor: m1.small Number of VMs: 0 Average Time: 7271287340
+INFO  [nova.SingleServerStartupExperiment]: Starting experiment for flavor: m1.medium after 0 VMs: 
+INFO  [nova.SingleServerStartupExperiment]: Flavor: m1.medium Number of VMs: 0 Average Time: 8079421224
+
+INFO  [nova.SingleServerStartupExperiment]: Starting experiment for flavor: m1.tiny after 1 VMs: 
+INFO  [nova.SingleServerStartupExperiment]: Flavor: m1.tiny Number of VMs: 1 Average Time: 5626545175
+INFO  [nova.SingleServerStartupExperiment]: Starting experiment for flavor: m1.small after 1 VMs: 
+INFO  [nova.SingleServerStartupExperiment]: Flavor: m1.small Number of VMs: 1 Average Time: 7810742152
+INFO  [nova.SingleServerStartupExperiment]: Starting experiment for flavor: m1.medium after 1 VMs: 
+INFO  [nova.SingleServerStartupExperiment]: Flavor: m1.medium Number of VMs: 1 Average Time: 8381981434
+
+INFO  [nova.SingleServerStartupExperiment]: Starting experiment for flavor: m1.tiny after 2 VMs: 
+INFO  [nova.SingleServerStartupExperiment]: Flavor: m1.tiny Number of VMs: 2 Average Time: 6311397705
+INFO  [nova.SingleServerStartupExperiment]: Starting experiment for flavor: m1.small after 2 VMs: 
+INFO  [nova.SingleServerStartupExperiment]: Flavor: m1.small Number of VMs: 2 Average Time: 8143668675
+INFO  [nova.SingleServerStartupExperiment]: Starting experiment for flavor: m1.medium after 2 VMs: 
+INFO  [nova.SingleServerStartupExperiment]: Flavor: m1.medium Number of VMs: 2 Average Time: 8799241702
+
+INFO  [nova.SingleServerStartupExperiment]: Starting experiment for flavor: m1.tiny after 3 VMs: 
+INFO  [nova.SingleServerStartupExperiment]: Flavor: m1.tiny Number of VMs: 3 Average Time: 6834458868
+INFO  [nova.SingleServerStartupExperiment]: Starting experiment for flavor: m1.small after 3 VMs: 
+INFO  [nova.SingleServerStartupExperiment]: Flavor: m1.small Number of VMs: 3 Average Time: 8990885552
+INFO  [nova.SingleServerStartupExperiment]: Starting experiment for flavor: m1.medium after 3 VMs: 
+INFO  [nova.SingleServerStartupExperiment]: Flavor: m1.medium Number of VMs: 3 Average Time: 9317999548
+
+INFO  [nova.SingleServerStartupExperiment]: Starting experiment for flavor: m1.tiny after 4 VMs: 
+INFO  [nova.SingleServerStartupExperiment]: Flavor: m1.tiny Number of VMs: 4 Average Time: 7678266075
+INFO  [nova.SingleServerStartupExperiment]: Starting experiment for flavor: m1.small after 4 VMs: 
+INFO  [nova.SingleServerStartupExperiment]: Flavor: m1.small Number of VMs: 4 Average Time: 9426620208
+INFO  [nova.SingleServerStartupExperiment]: Starting experiment for flavor: m1.medium after 4 VMs: 
+INFO  [nova.SingleServerStartupExperiment]: Flavor: m1.medium Number of VMs: 4 Average Time: 9572150523
+
+INFO  [nova.SingleServerStartupExperiment]: Starting experiment for flavor: m1.tiny after 5 VMs: 
+INFO  [nova.SingleServerStartupExperiment]: Flavor: m1.tiny Number of VMs: 5 Average Time: 8472981667
+INFO  [nova.SingleServerStartupExperiment]: Starting experiment for flavor: m1.small after 5 VMs: 
+INFO  [nova.SingleServerStartupExperiment]: Flavor: m1.small Number of VMs: 5 Average Time: 9718697278
+
+INFO  [nova.SingleServerStartupExperiment]: Starting experiment for flavor: m1.tiny after 6 VMs: 
+INFO  [nova.SingleServerStartupExperiment]: Flavor: m1.tiny Number of VMs: 6 Average Time: 9149968117
+
+INFO  [nova.SingleServerStartupExperiment]: Starting experiment for flavor: m1.tiny after 7 VMs: 
+INFO  [nova.SingleServerStartupExperiment]: Flavor: m1.tiny Number of VMs: 7 Average Time: 10343145019
+
+INFO  [nova.SingleServerStartupExperiment]: Starting experiment for flavor: m1.tiny after 8 VMs: 
+INFO  [nova.SingleServerStartupExperiment]: Flavor: m1.tiny Number of VMs: 8 Average Time: 11481464234
+
+INFO  [nova.SingleServerStartupExperiment]: Starting experiment for flavor: m1.tiny after 9 VMs: 
+INFO  [nova.SingleServerStartupExperiment]: Flavor: m1.tiny Number of VMs: 9 Average Time: 13949948103
+
+INFO  [main.ExperimentExecutor]: Tearing down Experiment
+INFO  [main.ExperimentExecutor]: Finished running experiments - exiting
+

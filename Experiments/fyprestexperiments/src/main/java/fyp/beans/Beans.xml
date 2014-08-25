@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+<bean 
+class="org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor"/>
+
+
+<bean id="openstackConfigBean" class="fyp.config.OpenstackConfig" scope="singleton">
+ <property name="novaEndpoint" value="http://localhost:8774/v2/"/>
+ <property name="keystoneEndpoint" value="http://localhost:5000/v2.0/"/>
+ <property name="glanceEndpoint" value="http://localhost:9292/v2.0/"/>
+ <property name="username" value="sc10cs"/>
+ <property name="password" value="LNRqJNc2rp"/>
+ <property name="tenantName" value="sc10cs"/>
+ <property name="tenantId" value="ff10b9ffefaa4d38a1b6bd28cbd7b3f2"/>
+</bean>
+
+<bean id="restTemplate" class="org.springframework.web.client.RestTemplate" scope="singleton">
+</bean>
+
+
+</beans>
+

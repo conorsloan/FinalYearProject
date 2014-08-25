@@ -1,0 +1,1339 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.5.8)  14 MAY 2014 08:39
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**FYP.tex
+(./FYP.tex
+LaTeX2e <2011/06/27>
+Babel <3.9f> and hyphenation patterns for 2 languages loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/a4wide/a4wide.sty
+Package: a4wide 1994/08/30
+
+(/usr/share/texlive/texmf-dist/tex/latex/ntgclass/a4.sty
+Package: a4 2004/04/15 v1.2g A4 based page layout
+))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count88
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/share/texlive/texmf-dist/tex/latex/multido/multido.sty
+Package: multido 2004/05/17 package wrapper for PSTricks `multido.tex', (HV/RN)
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/multido/multido.tex
+ v1.42, 2010/05/14 <tvz>
+\multido@count=\count89
+\multidocount=\count90
+\multido@stuff=\toks15
+)
+File: multido.tex 2010/05/14 v1.42 `multido' (tvz,hv)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks16
+\ex@=\dimen105
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen106
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count91
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count92
+\leftroot@=\count93
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count94
+\DOTSCASE@=\count95
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen107
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count96
+\c@MaxMatrixCols=\count97
+\dotsspace@=\muskip11
+\c@parentequation=\count98
+\dspbrk@lvl=\count99
+\tag@help=\toks17
+\row@=\count100
+\column@=\count101
+\maxfields@=\count102
+\andhelp@=\toks18
+\eqnshift@=\dimen108
+\alignsep@=\dimen109
+\tagshift@=\dimen110
+\tagwidth@=\dimen111
+\totwidth@=\dimen112
+\lineht@=\dimen113
+\@envbody=\toks19
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/mathptmx.sty
+Package: mathptmx 2005/04/12 PSNFSS-v9.2a Times w/ Math, improved (SPQR, WaS) 
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+\symbold=\mathgroup6
+\symitalic=\mathgroup7
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
+LaTeX Info: Redefining \hbar on input line 50.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count103
+\float@exts=\toks21
+\float@box=\box28
+\@float@everytoks=\toks22
+\@floatcapt=\box29
+)
+(/usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty
+Package: parskip 2001/04/09 non-zero parskip adjustments
+)
+(/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip46
+\enit@outerparindent=\dimen114
+\enit@toks=\toks23
+\enit@inbox=\box30
+\enitdp@description=\count104
+)
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
+\ttl@box=\box31
+\beforetitleunit=\skip47
+\aftertitleunit=\skip48
+\ttl@plus=\dimen115
+\ttl@minus=\dimen116
+\ttl@toksa=\toks24
+\titlewidth=\dimen117
+\titlewidthlast=\dimen118
+\titlewidthfirst=\dimen119
+)
+(/usr/share/texlive/texmf-dist/tex/latex/rotating/rotating.sty
+Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count105
+\rotFPtop=\skip49
+\rotFPbot=\skip50
+\rot@float@box=\box32
+\rot@mess@toks=\toks25
+) (./FYP.aux
+(./cover.aux) (./summary.aux) (./acknowledge.aux) (./chapter1.aux)
+(./chapter2.aux) (./chapter3.aux) (./chapter4.aux) (./chapter5.aux)
+(./appendixa.aux) (./appendixb.aux) (./appendixc.aux) (./appendixd.aux)
+(./appendixe.aux) (./appendixf.aux) (./appendixg.aux))
+\openout1 = `FYP.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 48.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count106
+\scratchdimen=\dimen120
+\scratchbox=\box33
+\nofMPsegments=\count107
+\nofMParguments=\count108
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count109
+\MPscratchDim=\dimen121
+\MPnumerator=\count110
+\makeMPintoPDFobject=\count111
+\everyMPtoPDFconversion=\toks27
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\openout2 = `cover.aux'.
+
+
+(./cover.tex
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 14.
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 14
+.
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 14
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlztmcm.fd
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 14
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsztmcm.fd
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 14
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxztmcm.fd
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 14.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 14.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 14.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 15.
+
+) [1
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+\openout2 = `summary.aux'.
+
+ (./summary.tex
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 2.
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--7
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--7
+
+ []
+
+) [1
+
+
+]
+\openout2 = `acknowledge.aux'.
+
+ (./acknowledge.tex
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
+) [2
+
+
+]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.88> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 60.
+ (./FYP.toc [3
+
+
+] [4] [5])
+\tf@toc=\write3
+\openout3 = `FYP.toc'.
+
+ [6]
+\openout2 = `chapter1.aux'.
+
+ (./chapter1.tex
+Chapter 1.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20.74> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 10.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 10.
+ [1
+
+
+]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 26.
+ [2] [3] [4]
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 139--140
+
+ []
+
+) [6]
+\openout2 = `chapter2.aux'.
+
+ (./chapter2.tex
+Chapter 2.
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+[7
+
+
+
+] <cloud_types.png, id=52, 763.85374pt x 409.53pt>
+File: cloud_types.png Graphic file (type png)
+ <use cloud_types.png>
+Package pdftex.def Info: cloud_types.png used on input line 36.
+(pdftex.def)             Requested size: 267.35281pt x 143.33765pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--44
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--44
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--44
+
+ []
+
+[8] <service_models.png, id=56, 847.165pt x 485.815pt>
+File: service_models.png Graphic file (type png)
+
+<use service_models.png>
+Package pdftex.def Info: service_models.png used on input line 50.
+(pdftex.def)             Requested size: 338.85999pt x 194.32256pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--57
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--57
+
+ []
+
+[9 <./cloud_types.png (PNG copy)>] [10 <./service_models.png (PNG copy)>]
+<roots_of_cloud_computing.png, id=63, 690.58pt x 702.625pt>
+File: roots_of_cloud_computing.png Graphic file (type png)
+
+<use roots_of_cloud_computing.png>
+Package pdftex.def Info: roots_of_cloud_computing.png used on input line 63.
+(pdftex.def)             Requested size: 207.1756pt x 210.78912pt.
+ [11 <./roots_of_cloud_computing.png (PNG copy)>] [12]
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--116
+
+ []
+
+[13] <hardware_separation.png, id=74, 865.2325pt x 372.39125pt>
+File: hardware_separation.png Graphic file (type png)
+
+<use hardware_separation.png>
+Package pdftex.def Info: hardware_separation.png used on input line 119.
+(pdftex.def)             Requested size: 346.08687pt x 148.95386pt.
+
+<vmhypervisor.png, id=75, 1006.76125pt x 427.5975pt>
+File: vmhypervisor.png Graphic file (type png)
+ <use vmhypervisor.png>
+Package pdftex.def Info: vmhypervisor.png used on input line 134.
+(pdftex.def)             Requested size: 352.37172pt x 149.66136pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--143
+
+ []
+
+[14 <./hardware_separation.png (PNG copy)>] [15 <./vmhypervisor.png (PNG copy)>
+] [16] <VIM_comparison.png, id=85, 940.26282pt x 193.47281pt>
+File: VIM_comparison.png Graphic file (type png)
+
+<use VIM_comparison.png>
+Package pdftex.def Info: VIM_comparison.png used on input line 181.
+(pdftex.def)             Requested size: 470.13026pt x 96.73616pt.
+
+Overfull \hbox (34.2765pt too wide) in paragraph at lines 181--182
+ [][] 
+ []
+
+
+Overfull \hbox (15.0843pt too wide) in paragraph at lines 185--189
+\OT1/ptm/m/n/10.95 com-pat-i-bil-ity, are Com-pute, Net-work-ing, Stor-age, Sel
+f-Service Pro-vi-sion-ing and Cloud Management[[]].
+ []
+
+[17]
+Missing character: There is no √ in font ptmr7t!
+Missing character: There is no © in font ptmr7t!
+ [18 <./VIM_comparison.png>]
+Overfull \hbox (6.98148pt too wide) in paragraph at lines 218--219
+\OT1/ptm/m/n/10.95 Stack be-ing more de-sir-able, and a num-ber of sce-nario te
+sts of Open-Neb-ula un-der var-i-ous conditions[[]]. 
+ []
+
+[19] [20] <openstack-software-diagram.png, id=99, 750.805pt x 311.1625pt>
+File: openstack-software-diagram.png Graphic file (type png)
+
+<use openstack-software-diagram.png>
+Package pdftex.def Info: openstack-software-diagram.png used on input line 254.
+
+(pdftex.def)             Requested size: 300.31668pt x 124.46278pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--282
+
+ []
+
+[21 <./openstack-software-diagram.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 283--284
+
+ []
+
+[22]
+Underfull \hbox (badness 10000) in paragraph at lines 325--326
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 327--328
+
+ []
+
+[23]
+Underfull \hbox (badness 10000) in paragraph at lines 329--330
+
+ []
+
+) [24]
+\openout2 = `chapter3.aux'.
+
+ (./chapter3.tex
+Chapter 3.
+[25
+
+
+
+] <cloudtestbed.png, id=117, 497.86pt x 477.785pt>
+File: cloudtestbed.png Graphic file (type png)
+ <use cloudtestbed.png>
+Package pdftex.def Info: cloudtestbed.png used on input line 18.
+(pdftex.def)             Requested size: 149.35915pt x 143.3366pt.
+
+[26 <./cloudtestbed.png (PNG copy)>] [27]
+<openstack-architecture.png, id=124, 794.2172pt x 489.32813pt>
+File: openstack-architecture.png Graphic file (type png)
+
+<use openstack-architecture.png>
+Package pdftex.def Info: openstack-architecture.png used on input line 59.
+(pdftex.def)             Requested size: 317.68124pt x 195.72777pt.
+ [28 <./openstack-architecture.png>] [29]
+[30] [31] [32] [33] [34] [35]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 268.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 273.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+) [36] [37]
+
+LaTeX Warning: Citation `aptitude' on page 38 undefined on input line 332.
+
+<wiresharknetanalysis.png, id=159, 1602.98875pt x 660.4675pt>
+File: wiresharknetanalysis.png Graphic file (type png)
+
+<use wiresharknetanalysis.png>
+Package pdftex.def Info: wiresharknetanalysis.png used on input line 337.
+(pdftex.def)             Requested size: 432.81274pt x 178.3286pt.
+ [38]
+<keystone-packet-returned.png, id=164, 1606.0pt x 313.17pt>
+File: keystone-packet-returned.png Graphic file (type png)
+
+<use keystone-packet-returned.png>
+Package pdftex.def Info: keystone-packet-returned.png used on input line 358.
+(pdftex.def)             Requested size: 433.62581pt x 84.55702pt.
+
+<arc-keystone-packet.png, id=165, 1443.3925pt x 302.12875pt>
+File: arc-keystone-packet.png Graphic file (type png)
+
+<use arc-keystone-packet.png>
+Package pdftex.def Info: arc-keystone-packet.png used on input line 365.
+(pdftex.def)             Requested size: 433.02109pt x 90.63931pt.
+ [39 <./wiresharknetanalysis.png> <./keystone-packet-returned.png>] [40 <./arc-
+keystone-packet.png (PNG copy)>]
+Missing character: There is no ‚ in font pcrr7t!
+Missing character: There is no Ä in font pcrr7t!
+Missing character: There is no ã in font pcrr7t!
+Missing character: There is no ‚ in font pcrr7t!
+Missing character: There is no Ä in font pcrr7t!
+Missing character: There is no ã in font pcrr7t!
+Missing character: There is no ‚ in font pcrr7t!
+Missing character: There is no Ä in font pcrr7t!
+Missing character: There is no ã in font pcrr7t!
+Missing character: There is no ‚ in font pcrr7t!
+Missing character: There is no Ä in font pcrr7t!
+Missing character: There is no ã in font pcrr7t!
+ [41]
+Overfull \hbox (4.10571pt too wide) in paragraph at lines 434--442
+\OT1/pcr/m/n/10.95 OPENSTACK _ URL : 8774 / v2 / TENANT _ ID / SERVERS _ OR _ I
+MAGES / ENTITY _ ID / metadata$
+ []
+
+[42]
+Missing character: There is no ‚ in font pcrr7t!
+Missing character: There is no Ä in font pcrr7t!
+Missing character: There is no ã in font pcrr7t!
+Missing character: There is no ‚ in font pcrr7t!
+Missing character: There is no Ä in font pcrr7t!
+Missing character: There is no ã in font pcrr7t!
+Missing character: There is no ‚ in font pcrr7t!
+Missing character: There is no Ä in font pcrr7t!
+Missing character: There is no ã in font pcrr7t!
+Missing character: There is no ‚ in font pcrr7t!
+Missing character: There is no Ä in font pcrr7t!
+Missing character: There is no ã in font pcrr7t!
+ [43] [44] [45]
+<multiple-server-launch-results.png, id=191, 777.65532pt x 375.65344pt>
+File: multiple-server-launch-results.png Graphic file (type png)
+
+<use multiple-server-launch-results.png>
+Package pdftex.def Info: multiple-server-launch-results.png used on input line 
+567.
+(pdftex.def)             Requested size: 349.94167pt x 169.04248pt.
+
+<single-vm-launch-results.png, id=192, 796.47563pt x 444.15938pt>
+File: single-vm-launch-results.png Graphic file (type png)
+
+<use single-vm-launch-results.png>
+Package pdftex.def Info: single-vm-launch-results.png used on input line 573.
+(pdftex.def)             Requested size: 318.58461pt x 177.6606pt.
+ [46 <./multiple-server-launch-results.png> <./single-vm-launch-results.png>]
+<slowdown-factor-multiple-launch.png, id=198, 733.23938pt x 345.54094pt>
+File: slowdown-factor-multiple-launch.png Graphic file (type png)
+
+<use slowdown-factor-multiple-launch.png>
+Package pdftex.def Info: slowdown-factor-multiple-launch.png used on input line
+ 586.
+(pdftex.def)             Requested size: 329.95467pt x 155.49197pt.
+
+<slowdown-factor-single-launch.png, id=199, 710.655pt x 338.76563pt>
+File: slowdown-factor-single-launch.png Graphic file (type png)
+
+<use slowdown-factor-single-launch.png>
+Package pdftex.def Info: slowdown-factor-single-launch.png used on input line 5
+95.
+(pdftex.def)             Requested size: 312.68916pt x 149.05733pt.
+ [47 <./slowdown-factor-multiple-launch.png>] [48 <./slowdown-factor-single-lau
+nch.png>]
+<server-status-results.png, id=209, 539.01375pt x 321.45094pt>
+File: server-status-results.png Graphic file (type png)
+
+<use server-status-results.png>
+Package pdftex.def Info: server-status-results.png used on input line 630.
+(pdftex.def)             Requested size: 334.18506pt x 199.29752pt.
+)
+Overfull \hbox (6.36726pt too wide) in paragraph at lines 638--68
+[]\OT1/ptm/b/n/10.95 Resources: \OT1/ptm/m/it/10.95 Server-Sta-tus-Per-for-manc
+e-Ex-per-i-ment\OT1/ptm/m/n/10.95 , \OT1/ptm/m/it/10.95 No-vaU-tils\OT1/ptm/m/n
+/10.95 , \OT1/ptm/m/it/10.95 Server-Sta-tus-Per-for-mance-Ex-per-i-ment.log 
+ []
+
+[49 <./server-status-results.png>]
+\openout2 = `chapter4.aux'.
+
+ (./chapter4.tex
+Chapter 4.
+<cloud-characteristic-comparison.png, id=214, 1192.455pt x 461.47406pt>
+File: cloud-characteristic-comparison.png Graphic file (type png)
+
+<use cloud-characteristic-comparison.png>
+Package pdftex.def Info: cloud-characteristic-comparison.png used on input line
+ 12.
+(pdftex.def)             Requested size: 286.19505pt x 110.75603pt.
+ [50
+
+
+
+ <./cloud-characteristic-comparison.png>] [51] [52] [53] [54]
+<evaluation-comparison-table.png, id=232, 1196.21906pt x 447.92343pt>
+File: evaluation-comparison-table.png Graphic file (type png)
+
+<use evaluation-comparison-table.png>
+Package pdftex.def Info: evaluation-comparison-table.png used on input line 68.
+
+(pdftex.def)             Requested size: 287.09843pt x 107.50381pt.
+ [55] [56 <./evaluation-comparison-table.png>] [57] [58]
+Underfull \hbox (badness 10000) in paragraph at lines 118--119
+
+ []
+
+) [59]
+\openout2 = `chapter5.aux'.
+
+ (./chapter5.tex
+Chapter 5.
+) [60
+
+
+
+] (./FYP.bbl
+Missing character: There is no Ô in font ptmr7t!
+Missing character: There is no ¨ in font ptmr7t!
+Missing character: There is no Å in font ptmr7t!
+
+Underfull \hbox (badness 2726) in paragraph at lines 56--61
+[]\OT1/ptm/m/n/10.95 Dialogic Inc.  In-tro-duc-tion to cloud com-put-ing.  $\OT
+1/pcr/m/n/10.95 http : / / www . dialogic . com /
+ []
+
+
+Underfull \hbox (badness 1152) in paragraph at lines 56--61
+[] \OT1/pcr/m/n/10.95 / media / products / docs / whitepapers / 12023-[]cloud-[
+]computing-[]wp . pdf$ \OT1/ptm/m/n/10.95 -
+ []
+
+
+Underfull \hbox (badness 2150) in paragraph at lines 69--74
+[]\OT1/ptm/m/n/10.95 Google.  What is google app en-gine?  $\OT1/pcr/m/n/10.95 
+https : / / developers . google . com /
+ []
+
+[61
+
+
+]
+Underfull \hbox (badness 1776) in paragraph at lines 113--116
+[]\OT1/ptm/m/n/10.95 W3C.  Web ser-vices glos-sary, Febru-ary 2004.  $\OT1/pcr/
+m/n/10.95 http : / / www . w3 . org / TR / 2004 /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--150
+[]\OT1/ptm/m/n/10.95 Amit Singh.  An in-tro-duc-tion to vir-tu-al-i-sa-tion, 20
+04.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--156
+[]\OT1/ptm/m/n/10.95 VMWare Inc.  Vir-tu-al-i-sa-tion overview.  $\OT1/pcr/m/n/
+10.95 http : / / www . vmware . com / pdf /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--163
+\OT1/pcr/m/n/10.95 agilysys . com / NR / rdonlyres / 59999A65-[]07A1-[]4EDF-[]A
+95F-[]09C1FD55E08C /
+ []
+
+[62]
+Underfull \hbox (badness 10000) in paragraph at lines 165--170
+[]\OT1/ptm/m/n/10.95 Forrester Re-search.  Put dcim into your au-toma-tion plan
+s, De-cem-ber 2009.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--170
+\OT1/pcr/m/n/10.95 http : / / www . forrester . com / Put + DCIM + Into + Your 
++ Automation + Plans /
+ []
+
+
+Underfull \hbox (badness 1281) in paragraph at lines 210--214
+[]\OT1/ptm/m/n/10.95 VMWare Inc.  Vmware high avail-abil-ity (ha), 2010.  $\OT1
+/pcr/m/n/10.95 http : / / www . vmware . com /
+ []
+
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ì in font ptmr7t!
+[63]
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--267
+[]\OT1/ptm/m/n/10.95 David Meyer.  Heres why cern ditched open-neb-ula for open
+-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--267
+\OT1/ptm/m/n/10.95 stack, May 2013.  $\OT1/pcr/m/n/10.95 http : / / gigaom . co
+m / 2013 / 05 / 31 /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--267
+\OT1/pcr/m/n/10.95 heres-[]why-[]cern-[]ditched-[]opennebula-[]for-[]openstack/
+$ \OT1/ptm/m/n/10.95 - ac-cessed
+ []
+
+
+Underfull \hbox (badness 7064) in paragraph at lines 274--278
+[]\OT1/ptm/m/n/10.95 University of Chicago.  Doc-u-men-ta-tion - nim-bus: Fea-t
+ures.  $\OT1/pcr/m/n/10.95 http : / / www .
+ []
+
+
+Underfull \hbox (badness 1102) in paragraph at lines 312--317
+\OT1/pcr/m/n/10.95 openstack . org / en / question / 6433 / openstack-[]service
+s-[]and-[]port/$ \OT1/ptm/m/n/10.95 - ac-
+ []
+
+[64]
+Underfull \hbox (badness 10000) in paragraph at lines 382--387
+[]\OT1/ptm/m/n/10.95 Frank Will-more.  In-tro-duc-tion to par-al-lel com-put-in
+g, 2012.  $\OT1/pcr/m/n/10.95 https :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 382--387
+\OT1/pcr/m/n/10.95 / / www . tacc . utexas . edu / c / document _ library / get
+ _ file ? uuid =
+ []
+
+
+Underfull \hbox (badness 4556) in paragraph at lines 389--394
+[]\OT1/ptm/m/n/10.95 The Open-Stack Foun-da-tion.  Paus-ing & sus-pend-ing serv
+ers - open-stack man-u-als.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 389--394
+\OT1/ptm/m/n/10.95 http://docs.openstack.org/grizzly/openstack-compute/admin/co
+ntent/pausing-and-suspending-
+ []
+
+Missing character: There is no ≈ in font ptmr7t!
+Missing character: There is no Ç in font ptmr7t!
+Missing character: There is no ƒ in font ptmr7t!
+Missing character: There is no á in font ptmr7t!
+[65]
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+) [66]
+\openout2 = `appendixa.aux'.
+
+ (./appendixa.tex
+Appendix A.
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--7
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--10
+
+ []
+
+[67
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 11--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+
+ []
+
+[68]) [69]
+\openout2 = `appendixb.aux'.
+
+ (./appendixb.tex
+Appendix B.
+) [70
+
+
+
+]
+\openout2 = `appendixc.aux'.
+
+ (./appendixc.tex
+Appendix C.
+) [71
+
+
+
+]
+\openout2 = `appendixd.aux'.
+
+ (./appendixd.tex
+Appendix D.
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--11
+
+ []
+
+<openstack-login.png, id=287, 1606.0pt x 903.375pt>
+File: openstack-login.png Graphic file (type png)
+ <use openstack-login.png>
+Package pdftex.def Info: openstack-login.png used on input line 15.
+(pdftex.def)             Requested size: 369.37224pt x 207.77188pt.
+
+[72
+
+
+
+] <openstack-project-instances.png, id=292, 1204.5pt x 422.32782pt>
+File: openstack-project-instances.png Graphic file (type png)
+
+<use openstack-project-instances.png>
+Package pdftex.def Info: openstack-project-instances.png used on input line 23.
+
+(pdftex.def)             Requested size: 361.35278pt x 126.69931pt.
+
+<launch-instance-dialog.png, id=293, 705.63625pt x 650.43pt>
+File: launch-instance-dialog.png Graphic file (type png)
+
+<use launch-instance-dialog.png>
+Package pdftex.def Info: launch-instance-dialog.png used on input line 30.
+(pdftex.def)             Requested size: 282.2495pt x 260.16739pt.
+ [73 <./openstack-login.png (PNG copy)> <./openstack-project-instances.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
+
+ []
+
+<instance-launched.png, id=298, 1343.0175pt x 174.6525pt>
+File: instance-launched.png Graphic file (type png)
+
+<use instance-launched.png>
+Package pdftex.def Info: instance-launched.png used on input line 39.
+(pdftex.def)             Requested size: 470.06317pt x 61.12929pt.
+
+Overfull \hbox (34.20941pt too wide) in paragraph at lines 39--40
+ [][] 
+ []
+
+[74 <./launch-instance-dialog.png (PNG copy)> <./instance-launched.png (PNG cop
+y)>]
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+
+ []
+
+<openstackrc.png, id=302, 646.415pt x 391.4625pt>
+File: openstackrc.png Graphic file (type png)
+ <use openstackrc.png>
+Package pdftex.def Info: openstackrc.png used on input line 54.
+(pdftex.def)             Requested size: 258.56142pt x 156.58221pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--62
+
+ []
+
+[75 <./openstackrc.png (PNG copy)>]
+<nova-boot-usage.png, id=306, 1231.60126pt x 87.32625pt>
+File: nova-boot-usage.png Graphic file (type png)
+
+<use nova-boot-usage.png>
+Package pdftex.def Info: nova-boot-usage.png used on input line 66.
+(pdftex.def)             Requested size: 492.63177pt x 34.92987pt.
+
+Overfull \hbox (56.77802pt too wide) in paragraph at lines 66--67
+ [][] 
+ []
+
+<CLI-warmup.png, id=307, 1146.2825pt x 862.22125pt>
+File: CLI-warmup.png Graphic file (type png)
+ <use CLI-warmup.png>
+Package pdftex.def Info: CLI-warmup.png used on input line 74.
+(pdftex.def)             Requested size: 458.50488pt x 344.88239pt.
+
+Overfull \hbox (22.65112pt too wide) in paragraph at lines 74--75
+ [][] 
+ []
+
+[76 <./nova-boot-usage.png (PNG copy)>]
+<CLI-warmup2.png, id=311, 1143.27126pt x 187.70125pt>
+File: CLI-warmup2.png Graphic file (type png)
+ <use CLI-warmup2.png>
+Package pdftex.def Info: CLI-warmup2.png used on input line 81.
+(pdftex.def)             Requested size: 457.3004pt x 75.07916pt.
+
+Overfull \hbox (21.44664pt too wide) in paragraph at lines 81--82
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--86
+
+ []
+
+[77 <./CLI-warmup.png (PNG copy)> <./CLI-warmup2.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 87--88
+
+ []
+
+Missing character: There is no ‚ in font ptmri7t!
+Missing character: There is no Ä in font ptmri7t!
+Missing character: There is no ú in font ptmri7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--92
+
+ []
+
+[78] <pomxmlexample.png, id=319, 787.94376pt x 580.1675pt>
+File: pomxmlexample.png Graphic file (type png)
+
+<use pomxmlexample.png>
+Package pdftex.def Info: pomxmlexample.png used on input line 99.
+(pdftex.def)             Requested size: 275.78444pt x 203.06166pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
+
+ []
+
+<serviceports.png, id=320, 155.58125pt x 110.4125pt>
+File: serviceports.png Graphic file (type png)
+ <use serviceports.png>
+Package pdftex.def Info: serviceports.png used on input line 111.
+(pdftex.def)             Requested size: 77.79042pt x 55.2061pt.
+
+[79 <./pomxmlexample.png (PNG copy)>]
+<identitybrowserget.png, id=324, 1205.50375pt x 349.305pt>
+File: identitybrowserget.png Graphic file (type png)
+
+<use identitybrowserget.png>
+Package pdftex.def Info: identitybrowserget.png used on input line 119.
+(pdftex.def)             Requested size: 482.19296pt x 139.71951pt.
+
+Overfull \hbox (46.3392pt too wide) in paragraph at lines 119--120
+ [][] 
+ []
+
+<identitycurlget.png, id=325, 805.0075pt x 301.125pt>
+File: identitycurlget.png Graphic file (type png)
+
+<use identitycurlget.png>
+Package pdftex.def Info: identitycurlget.png used on input line 127.
+(pdftex.def)             Requested size: 321.9973pt x 120.44786pt.
+ [80 <./serviceports.png (PNG copy)> <./identitybrowserget.png (PNG copy)> <./i
+dentitycurlget.png (PNG copy)>]
+<advrestclient.png, id=329, 1436.36626pt x 737.75626pt>
+File: advrestclient.png Graphic file (type png)
+
+<use advrestclient.png>
+Package pdftex.def Info: advrestclient.png used on input line 135.
+(pdftex.def)             Requested size: 430.91321pt x 221.32858pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--140
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--142
+
+ []
+
+[81 <./advrestclient.png (PNG copy)>]
+<configbean.png, id=333, 998.73125pt x 299.1175pt>
+File: configbean.png Graphic file (type png)
+ <use configbean.png>
+Package pdftex.def Info: configbean.png used on input line 158.
+(pdftex.def)             Requested size: 449.42491pt x 134.60162pt.
+
+Overfull \hbox (13.57115pt too wide) in paragraph at lines 158--159
+ [][] 
+ []
+
+<experimentclassdiagram.png, id=334, 710.655pt x 612.2875pt>
+File: experimentclassdiagram.png Graphic file (type png)
+
+<use experimentclassdiagram.png>
+Package pdftex.def Info: experimentclassdiagram.png used on input line 166.
+(pdftex.def)             Requested size: 284.25696pt x 244.91066pt.
+ [82 <./configbean.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 170--171
+
+ []
+
+<clientclassdiagram.png, id=338, 1030.85126pt x 424.58624pt>
+File: clientclassdiagram.png Graphic file (type png)
+
+<use clientclassdiagram.png>
+Package pdftex.def Info: clientclassdiagram.png used on input line 174.
+(pdftex.def)             Requested size: 412.33319pt x 169.83148pt.
+ [83 <./experimentclassdiagram.png (PNG copy)>]
+<jsonrequestclass.png, id=342, 530.73282pt x 110.66344pt>
+File: jsonrequestclass.png Graphic file (type png)
+
+<use jsonrequestclass.png>
+Package pdftex.def Info: jsonrequestclass.png used on input line 183.
+(pdftex.def)             Requested size: 265.36575pt x 55.33157pt.
+ <tokenauth.png, id=343, 547.04375pt x 98.3675pt>
+File: tokenauth.png Graphic file (type png)
+
+<use tokenauth.png>
+Package pdftex.def Info: tokenauth.png used on input line 192.
+(pdftex.def)             Requested size: 273.5212pt x 49.18361pt.
+ [84 <./clientclassdiagram.png (PNG copy)> <./jsonrequestclass.png>] <createser
+vercode.png, id=349, 928.46875pt x 341.275pt>
+File: createservercode.png Graphic file (type png)
+
+<use createservercode.png>
+Package pdftex.def Info: createservercode.png used on input line 201.
+(pdftex.def)             Requested size: 464.23325pt x 170.63707pt.
+
+Overfull \hbox (28.37949pt too wide) in paragraph at lines 201--202
+ [][] 
+ []
+
+<launchinstanceexecute.png, id=350, 670.505pt x 588.1975pt>
+File: launchinstanceexecute.png Graphic file (type png)
+
+<use launchinstanceexecute.png>
+Package pdftex.def Info: launchinstanceexecute.png used on input line 209.
+(pdftex.def)             Requested size: 335.25168pt x 294.09802pt.
+ [85 <./tokenauth.png (PNG copy)> <./createservercode.png (PNG copy)>] <execute
+warmup.png, id=354, 807.015pt x 378.41376pt>
+File: executewarmup.png Graphic file (type png)
+
+<use executewarmup.png>
+Package pdftex.def Info: executewarmup.png used on input line 219.
+(pdftex.def)             Requested size: 403.50652pt x 189.2064pt.
+ [86 <./launchinstanceexecute.png (PNG copy)>] [87 <./executewarmup.png (PNG co
+py)>]
+<interfacecomparison.png, id=361, 513.41812pt x 1201.48875pt>
+File: interfacecomparison.png Graphic file (type png)
+
+<use interfacecomparison.png>
+Package pdftex.def Info: interfacecomparison.png used on input line 242.
+(pdftex.def)             Requested size: 256.70842pt x 600.74292pt.
+) [88] [89 <./interfacecomparison.png>]
+\openout2 = `appendixe.aux'.
+
+
+(./appendixe.tex
+Appendix E.
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--19
+
+ []
+
+[90
+
+
+
+] <mavenexec.png, id=372, 1231.60126pt x 125.46875pt>
+File: mavenexec.png Graphic file (type png)
+ <use mavenexec.png>
+Package pdftex.def Info: mavenexec.png used on input line 26.
+(pdftex.def)             Requested size: 615.79912pt x 62.7342pt.
+
+Overfull \hbox (179.94536pt too wide) in paragraph at lines 26--27
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+
+ []
+
+[91 <./mavenexec.png>]
+Overfull \hbox (10.93845pt too wide) in paragraph at lines 46--49
+\OT1/pcr/m/n/10.95 main / java / fyp / beans / Beans . xml$ \OT1/ptm/m/n/10.95 
+and $\OT1/pcr/m/n/10.95 fyprestexperiments / src / main / java / fyp /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
+
+ []
+
+File: clientclassdiagram.png Graphic file (type png)
+<use clientclassdiagram.png>
+Package pdftex.def Info: clientclassdiagram.png used on input line 64.
+(pdftex.def)             Requested size: 360.80334pt x 148.6074pt.
+File: experimentclassdiagram.png Graphic file (type png)
+ <use experimentclassdiagram.png>
+Package pdftex.def Info: experimentclassdiagram.png used on input line 77.
+(pdftex.def)             Requested size: 248.73297pt x 214.30383pt.
+ [92]
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
+
+ []
+
+[93]
+Overfull \hbox (95.01709pt too wide) in paragraph at lines 93--94
+[]\OT1/ptm/m/n/10.95 A built, ex-e-cutable Jar file con-tain-ing project code, 
+$\OT1/pcr/m/n/10.95 fypexperiments / target / openstackrestclient-[]0 .
+ []
+
+
+Overfull \hbox (9.4162pt too wide) in paragraph at lines 95--97
+\OT1/pcr/m/n/10.95 workspace / fyprestexperiments / src / main / java / fyp / e
+xperiment/$ \OT1/ptm/m/n/10.95 di-rec-tory. 
+ []
+
+
+Overfull \hbox (72.29712pt too wide) in paragraph at lines 97--98
+[]\OT1/ptm/m/n/10.95 A num-ber of util-i-ties which aid in us-ing the pro-vided
+ rest client in-ter-faces. Util-i-ties: $\OT1/pcr/m/n/10.95 fyprestexperiments 
+/
+ []
+
+
+Overfull \hbox (21.7988pt too wide) in paragraph at lines 97--98
+\OT1/pcr/m/n/10.95 src / main / java / fyp / utils/$ \OT1/ptm/m/n/10.95 in-ter-
+faces (with im-ple-men-ta-tions): $\OT1/pcr/m/n/10.95 fyprestexperiments /
+ []
+
+) [94]
+\openout2 = `appendixf.aux'.
+
+ (./appendixf.tex
+Appendix F.
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
+<joint-gantts3.png, id=387, 1145.78062pt x 428.35031pt>
+File: joint-gantts3.png Graphic file (type png)
+
+<use joint-gantts3.png>
+Package pdftex.def Info: joint-gantts3.png used on input line 14.
+(pdftex.def)             Requested size: 504.14503pt x 188.47472pt.
+ <final-gantt.png, id=388, 1418.29875pt x 413.545pt>
+File: final-gantt.png Graphic file (type png)
+
+<use final-gantt.png>
+Package pdftex.def Info: final-gantt.png used on input line 22.
+(pdftex.def)             Requested size: 624.05339pt x 181.96036pt.
+) [95
+
+
+
+] [96 <./joint-gantts3.png>] [97 <./final-gantt.png (PNG copy)>]
+\openout2 = `appendixg.aux'.
+
+ (./appendixg.tex
+Appendix G.
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+[98
+
+
+
+]
+Overfull \hbox (8.06462pt too wide) in paragraph at lines 16--17
+\OT1/ptm/m/n/10.95 This part of the de-ci-sion mak-ing and plan-ning phase was 
+im-por-tant to fin-ish first as the ac-tual timetabling
+ []
+
+[99]) [100] (./FYP.aux (./cover.aux) (./summary.aux) (./acknowledge.aux)
+(./chapter1.aux) (./chapter2.aux) (./chapter3.aux) (./chapter4.aux)
+(./chapter5.aux) (./appendixa.aux) (./appendixb.aux) (./appendixc.aux)
+(./appendixd.aux) (./appendixe.aux) (./appendixf.aux) (./appendixg.aux))
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3920 strings out of 495031
+ 56327 string characters out of 6181532
+ 116370 words of memory out of 5000000
+ 6876 multiletter control sequences out of 15000+600000
+ 31266 words of font info for 64 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 38i,10n,30p,1607b,311s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/font
+s/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/tim
+es/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on FYP.pdf (107 pages, 2374763 bytes).
+PDF statistics:
+ 437 PDF objects out of 1000 (max. 8388607)
+ 260 compressed objects within 3 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 221 words of extra memory for PDF output out of 10000 (max. 10000000)
+

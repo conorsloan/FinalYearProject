@@ -1,0 +1,67 @@
+INFO  [main.ExperimentExecutor]: Starting Experiment Executor - 1 Experiments
+INFO  [main.ExperimentExecutor]: Experiment: Nova Validator, Details: Validates Nova Functionality
+INFO  [main.ExperimentExecutor]: Setting up experiment..
+DEBUG [nova.NovaValidatorExperiment]: Setting up - retrieving and validating nova & keystone clients.
+DEBUG [nova.NovaClientImpl]: Validating client
+DEBUG [nova.NovaValidatorExperiment]: Finished setup.
+INFO  [main.ExperimentExecutor]: Executing Experiment
+INFO  [nova.NovaValidatorExperiment]: Create a server experiment
+INFO  [nova.NovaValidatorExperiment]: Got the server: test_server
+INFO  [nova.NovaValidatorExperiment]: 
+
+INFO  [nova.NovaValidatorExperiment]: Server getters test
+INFO  [nova.NovaValidatorExperiment]: Printing basic server info
+INFO  [nova.NovaValidatorExperiment]: Server name: test_server, ID: 67e95926-a172-44ad-94c4-9ce5f2567269
+INFO  [nova.NovaValidatorExperiment]: Server name: test_server, ID: c46f2e03-d84a-4abb-beb1-ccf441980f6c
+INFO  [nova.NovaValidatorExperiment]: Printing detailed server info
+INFO  [nova.NovaValidatorExperiment]: Server ID: 67e95926-a172-44ad-94c4-9ce5f2567269 Name: test_server.
+INFO  [nova.NovaValidatorExperiment]: Server ID: c46f2e03-d84a-4abb-beb1-ccf441980f6c Name: test_server.
+INFO  [nova.NovaValidatorExperiment]: Printing server 1
+INFO  [nova.NovaValidatorExperiment]: Server ID: 67e95926-a172-44ad-94c4-9ce5f2567269 Name: test_server.
+INFO  [nova.NovaValidatorExperiment]: 
+
+INFO  [nova.NovaValidatorExperiment]: Server metadata test
+INFO  [nova.NovaValidatorExperiment]: Got server: Server ID: 67e95926-a172-44ad-94c4-9ce5f2567269 Name: test_server.
+INFO  [nova.NovaValidatorExperiment]: Got metadata from server definition and from request
+INFO  [nova.NovaValidatorExperiment]: From server def: {}
+INFO  [nova.NovaValidatorExperiment]: From req: {}
+INFO  [nova.NovaValidatorExperiment]: Setting new metadata..{"foo":"bar"}
+INFO  [nova.NovaValidatorExperiment]: Metadata attempt1
+INFO  [nova.NovaValidatorExperiment]: Experiment passed!
+INFO  [nova.NovaValidatorExperiment]: 
+
+INFO  [nova.NovaValidatorExperiment]: Flavor getters test
+INFO  [nova.NovaValidatorExperiment]: Printing basic Flavor info
+INFO  [nova.NovaValidatorExperiment]: Name: m1.tiny, Ram: null, Disks: 0, VCPUS: 0
+INFO  [nova.NovaValidatorExperiment]: Name: m1.small, Ram: null, Disks: 0, VCPUS: 0
+INFO  [nova.NovaValidatorExperiment]: Name: m1.medium, Ram: null, Disks: 0, VCPUS: 0
+INFO  [nova.NovaValidatorExperiment]: Name: m1.large, Ram: null, Disks: 0, VCPUS: 0
+INFO  [nova.NovaValidatorExperiment]: Name: m1.xlarge, Ram: null, Disks: 0, VCPUS: 0
+INFO  [nova.NovaValidatorExperiment]: Printing detailed Flavor info
+INFO  [nova.NovaValidatorExperiment]: Flavor ID: 1 Name: m1.tiny
+INFO  [nova.NovaValidatorExperiment]: Flavor ID: 2 Name: m1.small
+INFO  [nova.NovaValidatorExperiment]: Flavor ID: 3 Name: m1.medium
+INFO  [nova.NovaValidatorExperiment]: Flavor ID: 4 Name: m1.large
+INFO  [nova.NovaValidatorExperiment]: Flavor ID: 5 Name: m1.xlarge
+INFO  [nova.NovaValidatorExperiment]: Printing Flavorr 1
+INFO  [nova.NovaValidatorExperiment]: Flavor ID: 1 Name: m1.tiny
+INFO  [nova.NovaValidatorExperiment]: 
+
+INFO  [nova.NovaValidatorExperiment]: Image getters test
+INFO  [nova.NovaValidatorExperiment]: Printing basic Image info
+INFO  [nova.NovaValidatorExperiment]: Name: Cirros 0.3.1, Id: 4dcbec14-dbdd-4400-ba6b-080da73dd3ba
+INFO  [nova.NovaValidatorExperiment]: Printing detailed Image info
+INFO  [nova.NovaValidatorExperiment]: Image Name: 4dcbec14-dbdd-4400-ba6b-080da73dd3ba ID: Cirros 0.3.1
+INFO  [nova.NovaValidatorExperiment]: Printing Image 1
+INFO  [nova.NovaValidatorExperiment]: Image Name: 4dcbec14-dbdd-4400-ba6b-080da73dd3ba ID: Cirros 0.3.1
+INFO  [nova.NovaValidatorExperiment]: 
+
+INFO  [nova.NovaValidatorExperiment]: Deleting server test
+INFO  [nova.NovaValidatorExperiment]: Number of servers before: 2
+INFO  [nova.NovaValidatorExperiment]: Number of servers after: 1
+INFO  [nova.NovaValidatorExperiment]: Experiment was successful, server was deleted
+INFO  [nova.NovaValidatorExperiment]: 
+
+INFO  [nova.NovaValidatorExperiment]: Finished
+INFO  [main.ExperimentExecutor]: Tearing down Experiment
+INFO  [main.ExperimentExecutor]: Finished running experiments - exiting

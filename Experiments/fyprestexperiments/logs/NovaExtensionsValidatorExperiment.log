@@ -1,0 +1,64 @@
+INFO  [main.ExperimentExecutor]: Starting Experiment Executor - 1 Experiments
+INFO  [main.ExperimentExecutor]: Experiment: Nova Extensions Validator, Details: Validates Nova Extensions Functionality
+INFO  [main.ExperimentExecutor]: Setting up experiment..
+DEBUG [nova.NovaExtensionsValidatorExperiment]: Setting up - retrieving and validating nova & keystone clients.
+DEBUG [nova.NovaClientImpl]: Validating client
+DEBUG [nova.NovaExtensionsValidatorExperiment]: Finished setup.
+INFO  [main.ExperimentExecutor]: Executing Experiment
+INFO  [nova.NovaExtensionsValidatorExperiment]: 
+
+INFO  [nova.NovaExtensionsValidatorExperiment]: Printing Hosts Info
+INFO  [nova.NovaExtensionsValidatorExperiment]: Host Name: testgrid12, Service: cert, Zone: internal
+INFO  [nova.NovaExtensionsValidatorExperiment]: Host Name: testgrid12, Service: conductor, Zone: internal
+INFO  [nova.NovaExtensionsValidatorExperiment]: Host Name: testgrid12, Service: consoleauth, Zone: internal
+INFO  [nova.NovaExtensionsValidatorExperiment]: Host Name: testgrid12, Service: scheduler, Zone: internal
+INFO  [nova.NovaExtensionsValidatorExperiment]: Host Name: testgrid13, Service: compute, Zone: nova
+INFO  [nova.NovaExtensionsValidatorExperiment]: Host Name: testgrid12, Service: compute, Zone: nova
+INFO  [nova.NovaExtensionsValidatorExperiment]: Host Name: testgrid12, Service: network, Zone: internal
+INFO  [nova.NovaExtensionsValidatorExperiment]: Host Name: testgrid13, Service: network, Zone: internal
+INFO  [nova.NovaExtensionsValidatorExperiment]: Retrieving a host by name: testgrid12
+INFO  [nova.NovaExtensionsValidatorExperiment]: Host: Host Resources: 
+Resource: cpu: null diskGb: 0 host: null memory: 0 project: null
+Resource: cpu: null diskGb: 0 host: null memory: 0 project: null
+Resource: cpu: null diskGb: 0 host: null memory: 0 project: null
+Resource: cpu: null diskGb: 0 host: null memory: 0 project: null
+
+INFO  [nova.NovaExtensionsValidatorExperiment]: Finished
+INFO  [nova.NovaExtensionsValidatorExperiment]: 
+
+INFO  [nova.NovaExtensionsValidatorExperiment]: Performing Server Pause & Unpause
+INFO  [nova.NovaExtensionsValidatorExperiment]: Creating a Server
+INFO  [nova.NovaExtensionsValidatorExperiment]: Got a server, ID: 9eca9821-bb14-49a6-a207-c8b3f133955f
+INFO  [nova.NovaExtensionsValidatorExperiment]: Pausing Server...
+INFO  [nova.NovaExtensionsValidatorExperiment]: Paused successfully!
+INFO  [nova.NovaExtensionsValidatorExperiment]: Unpausing Server...
+INFO  [nova.NovaExtensionsValidatorExperiment]: Unpaused successfully!
+INFO  [nova.NovaExtensionsValidatorExperiment]: Finished pause & unpause, deleting server..
+INFO  [nova.NovaExtensionsValidatorExperiment]: Server deleted successfully
+INFO  [nova.NovaExtensionsValidatorExperiment]: 
+
+INFO  [nova.NovaExtensionsValidatorExperiment]: Performing Server Suspend & Resume
+INFO  [nova.NovaExtensionsValidatorExperiment]: Creating a Server
+INFO  [nova.NovaExtensionsValidatorExperiment]: Got a server, ID: a9876826-4b84-40c5-a8c2-7e8330bfa2f3
+INFO  [nova.NovaExtensionsValidatorExperiment]: Suspending Server...
+INFO  [nova.NovaExtensionsValidatorExperiment]: Suspended successfully!
+INFO  [nova.NovaExtensionsValidatorExperiment]: Resuming Server...
+INFO  [nova.NovaExtensionsValidatorExperiment]: Resumed successfully!
+INFO  [nova.NovaExtensionsValidatorExperiment]: Finished suspend & resume, deleting server..
+INFO  [nova.NovaExtensionsValidatorExperiment]: Server deleted successfully
+INFO  [nova.NovaExtensionsValidatorExperiment]: 
+
+INFO  [nova.NovaExtensionsValidatorExperiment]: Performing Server Lock & Unlock
+INFO  [nova.NovaExtensionsValidatorExperiment]: Creating a Server
+INFO  [nova.NovaExtensionsValidatorExperiment]: Got a server, ID: f47e27cd-e840-44c0-a840-7ee925b845c3
+INFO  [nova.NovaExtensionsValidatorExperiment]: Locking Server...
+INFO  [nova.NovaExtensionsValidatorExperiment]: Locked successfully!
+INFO  [nova.NovaExtensionsValidatorExperiment]: Unlocking Server...
+INFO  [nova.NovaExtensionsValidatorExperiment]: Unlocked successfully!
+INFO  [nova.NovaExtensionsValidatorExperiment]: Finished lock & unlock, deleting server..
+INFO  [nova.NovaExtensionsValidatorExperiment]: Server deleted successfully
+INFO  [nova.NovaExtensionsValidatorExperiment]: 
+
+INFO  [nova.NovaExtensionsValidatorExperiment]: Finished
+INFO  [main.ExperimentExecutor]: Tearing down Experiment
+INFO  [main.ExperimentExecutor]: Finished running experiments - exiting

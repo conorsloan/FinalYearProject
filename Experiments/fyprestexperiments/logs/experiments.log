@@ -1,0 +1,47 @@
+INFO  [main.ExperimentExecutor]: Starting Experiment Executor - 1 Experiments
+INFO  [main.ExperimentExecutor]: Experiment: Server Staus Performance Experiment, Details: This experiment times the changing of state of different sized servers, e.g. locking/suspending
+INFO  [main.ExperimentExecutor]: Setting up experiment..
+DEBUG [nova.ServerStatusPerformanceExperiment]: Setting up - retrieving and validating nova & keystone clients.
+DEBUG [nova.NovaClientImpl]: Validating client
+DEBUG [nova.ServerStatusPerformanceExperiment]: Finished setup.
+INFO  [main.ExperimentExecutor]: Executing Experiment
+INFO  [nova.ServerStatusPerformanceExperiment]: Starting for Flavor: m1.tiny
+INFO  [nova.ServerStatusPerformanceExperiment]: Creating Server..
+INFO  [nova.ServerStatusPerformanceExperiment]: Created Server Successfully
+INFO  [nova.ServerStatusPerformanceExperiment]: Average Pause Time: 2614140666
+INFO  [nova.ServerStatusPerformanceExperiment]: Average Unpause Time: 1205668929
+INFO  [nova.ServerStatusPerformanceExperiment]: Average Suspend Time: 2091431622
+INFO  [nova.ServerStatusPerformanceExperiment]: Average Resume Time: 3693888436
+INFO  [nova.ServerStatusPerformanceExperiment]: Average Lock Time: 2596497605
+INFO  [nova.ServerStatusPerformanceExperiment]: Average Unlock Time: 1447074614
+INFO  [nova.ServerStatusPerformanceExperiment]: Starting for Flavor: m1.small
+INFO  [nova.ServerStatusPerformanceExperiment]: Creating Server..
+INFO  [nova.ServerStatusPerformanceExperiment]: Created Server Successfully
+INFO  [nova.ServerStatusPerformanceExperiment]: Average Pause Time: 1313505466
+INFO  [nova.ServerStatusPerformanceExperiment]: Average Unpause Time: 1319718251
+INFO  [nova.ServerStatusPerformanceExperiment]: Average Suspend Time: 4058497305
+INFO  [nova.ServerStatusPerformanceExperiment]: Average Resume Time: 4671336269
+INFO  [nova.ServerStatusPerformanceExperiment]: Average Lock Time: 1433008892
+INFO  [nova.ServerStatusPerformanceExperiment]: Average Unlock Time: 1337139212
+INFO  [nova.ServerStatusPerformanceExperiment]: Starting for Flavor: m1.medium
+INFO  [nova.ServerStatusPerformanceExperiment]: Creating Server..
+INFO  [nova.ServerStatusPerformanceExperiment]: Created Server Successfully
+INFO  [nova.ServerStatusPerformanceExperiment]: Average Pause Time: 1143563980
+INFO  [nova.ServerStatusPerformanceExperiment]: Average Unpause Time: 1046382885
+INFO  [nova.ServerStatusPerformanceExperiment]: Average Suspend Time: 6397580074
+INFO  [nova.ServerStatusPerformanceExperiment]: Average Resume Time: 7289356407
+INFO  [nova.ServerStatusPerformanceExperiment]: Average Lock Time: 1350179910
+INFO  [nova.ServerStatusPerformanceExperiment]: Average Unlock Time: 1453177986
+INFO  [nova.ServerStatusPerformanceExperiment]: Starting for Flavor: m1.large
+INFO  [nova.ServerStatusPerformanceExperiment]: Creating Server..
+INFO  [nova.ServerStatusPerformanceExperiment]: Created Server Successfully
+INFO  [nova.ServerStatusPerformanceExperiment]: Average Pause Time: 1417189042
+INFO  [nova.ServerStatusPerformanceExperiment]: Average Unpause Time: 1379335624
+INFO  [nova.ServerStatusPerformanceExperiment]: Average Suspend Time: 17377712544
+INFO  [nova.ServerStatusPerformanceExperiment]: Average Resume Time: 9209383679
+INFO  [nova.ServerStatusPerformanceExperiment]: Average Lock Time: 1603600537
+INFO  [nova.ServerStatusPerformanceExperiment]: Average Unlock Time: 2357949999
+INFO  [nova.ServerStatusPerformanceExperiment]: Starting for Flavor: m1.xlarge
+INFO  [nova.ServerStatusPerformanceExperiment]: Creating Server..
+ERROR [main.ExperimentExecutor]: Experiment Server Staus Performance Experiment failed with Exception: Newly created server was not in active state
+INFO  [main.ExperimentExecutor]: Finished running experiments - exiting

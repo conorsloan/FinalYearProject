@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- <import resource="classpath:fyp/beans/Beans.xml"/> -->
+
+    <bean id="Experiments" class="java.util.ArrayList">
+	<constructor-arg>
+	<list>
+		<!-- <bean class="fyp.experiment.warmup.LaunchInstanceExperiment"></bean> -->
+		<!-- <bean class="fyp.experiment.nova.NovaValidatorExperiment"></bean> -->
+		<!-- <bean class="fyp.experiment.nova.NovaExtensionsValidatorExperiment"></bean> -->
+		<!-- <bean class="fyp.experiment.nova.MultiServerStartupExperiment"></bean> -->
+		<!-- <bean class="fyp.experiment.nova.SingleServerStartupExperiment"></bean> -->
+		<!-- <bean class="fyp.experiment.keystone.SimpleKeystoneAuthenticationExperiment"></bean> -->
+		<!-- <bean class="fyp.experiment.keystone.KeystoneValidatorExperiment"></bean> -->
+		<bean class="fyp.experiment.nova.ServerStatusPerformanceExperiment"></bean>
+	</list>
+	</constructor-arg>
+</bean>
+    
+    
+    
+    
+</beans>
